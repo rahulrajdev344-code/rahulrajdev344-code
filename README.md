@@ -75,10 +75,14 @@ const rahul = {
 <h3 align="center">🚚 Door2dooR</h3>
 <p align="center">
   <a href="https://github.com/rahulrajdev344-code/Door2dooR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulrajdev344-code&repo=Door2dooR&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="Door2dooR"/>
+    <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="Door2dooR"/>
+  </a>
+  <a href="https://door2doo-r.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
   </a>
 </p>
 <p align="center"><strong>Logistics Optimization Platform</strong></p>
+<p align="center"><em>Multi-party collaboration system for faster package delivery using hotspots</em></p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
@@ -89,10 +93,14 @@ const rahul = {
 <h3 align="center">🏦 Decentralized Banking</h3>
 <p align="center">
   <a href="https://github.com/rahulrajdev344-code/DecentralizedBankingSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulrajdev344-code&repo=DecentralizedBankingSystem&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="DecentralizedBankingSystem"/>
+    <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="DecentralizedBankingSystem"/>
+  </a>
+  <a href="https://youtu.be/LmuhaPd3Abo">
+    <img src="https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo"/>
   </a>
 </p>
 <p align="center"><strong>Blockchain-based Banking System</strong></p>
+<p align="center"><em>Virtual banking with user transactions, loans & tax management</em></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white"/>
@@ -105,10 +113,11 @@ const rahul = {
 <h3 align="center">🎙️ Speech Emotion Recognition</h3>
 <p align="center">
   <a href="https://github.com/rahulrajdev344-code/SpeechEmotionRecognition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulrajdev344-code&repo=SpeechEmotionRecognition&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="SpeechEmotionRecognition"/>
+    <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="SpeechEmotionRecognition"/>
   </a>
 </p>
 <p align="center"><strong>ML-powered Emotion Detection from Speech using CNN & LSTM</strong></p>
+<p align="center"><em>Detects 8 emotions from audio using RAVDESS dataset & MLP/CNN/LSTM models</em></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
