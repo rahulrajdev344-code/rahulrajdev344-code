@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-photo.jpg" alt="Rahul Raj" width="180" style="border-radius: 50%;"/>
+  <img src="https://github.com/rahulrajdev344-code.png" alt="Rahul Raj" width="180" style="border-radius: 50%;"/>
 </p>
 
 <h1 align="center">
