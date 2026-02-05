@@ -91,6 +91,9 @@ const rahul = {
   <a href="https://github.com/rahulrajdev344-code/DecentralizedBankingSystem">
     <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="DecentralizedBankingSystem"/>
   </a>
+  <a href="https://decentralized-banking-system-na7l-hdqogqpb3.vercel.app/login">
+    <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
   <a href="https://youtu.be/LmuhaPd3Abo">
     <img src="https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo"/>
   </a>
@@ -110,6 +113,9 @@ const rahul = {
 <p align="center">
   <a href="https://github.com/rahulrajdev344-code/SpeechEmotionRecognition">
     <img src="https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white" alt="SpeechEmotionRecognition"/>
+  </a>
+  <a href="https://huggingface.co/spaces/rahulrajdev344/SpeechEmotionRecognition">
+    <img src="https://img.shields.io/badge/Live_Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Live Demo"/>
   </a>
 </p>
 <p align="center"><strong>ML-powered Emotion Detection from Speech using CNN & LSTM</strong></p>
